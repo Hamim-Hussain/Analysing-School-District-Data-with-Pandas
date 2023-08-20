@@ -12,8 +12,13 @@ Within Resources Folder in the PyCitySchools Folder:
 ## Findings
 My evaluation of the school district's performance included the examination of standardised test results in math and reading, school budgets, and grade point averages. The information was organised by school size and type, with an emphasis on district and charter schools.
 
-* ![2019](images/2019.PNG) According to my findings, charter schools outperform district schools in both math and reading scores, as well as the percentage of students passing the exams.
+![school_type_summary](images/school_type_summary.JPG) 
+* According to my findings, charter schools outperform district schools in both math and reading scores, as well as the percentage of students passing the exams.
+
+![school_size_summary](images/school_size_summary.JPG) 
 * Furthermore, smaller schools performed better than bigger schools, with higher average scores and pass rates.
+
+
 * One result that I find weird in my data analysis is the spending ranges analysis. Schools spending less per student appear to have better overall passing rates, with schools spending less than $585 per student having an overall passing rate of 90.4% and schools spending between $645-680 per student having an overall passing rate of only 53.5%. This trend can also be seen in math and reading passing rates, with schools spending less per student typically having better passing rates in both subjects.
 
 ## Conclusion
