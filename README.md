@@ -1,5 +1,8 @@
-# Analyzing School District Data: Key Metrics, Trends, and Insights
+# Analysing School District Data: Key Metrics, Trends, and Insights
 <img src="images/school.jpeg" width="1000" height="491">
+
+## Introduction
+Analysing School District Performance: Unveil trends using Pandas and Jupyter Notebook. I'll explore key metrics like total schools, students, budgets, average scores. Delve into 'School Summary' for insights into each school's fabric. From top achievers to untapped potential, discover 'Top-Performing' and 'Lowest-Performing Schools'. Looking at 'math and reading scores by grade', to unveil learning evolution. 'Scores by School Spending' links spending to outcomes. Explore school size and type's impact on performance. Ultimatley this will help educators to make informed choices for better education and equal chances for students.
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
