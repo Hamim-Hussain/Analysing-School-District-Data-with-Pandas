@@ -1,5 +1,5 @@
 # Analyzing School District Data: Key Metrics, Trends, and Insights
-<img src="images/school.jpg" width="1000" height="491">
+<img src="images/school.jpeg" width="1000" height="491">
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
