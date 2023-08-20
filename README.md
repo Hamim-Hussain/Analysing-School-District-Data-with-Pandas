@@ -6,7 +6,23 @@ Unveil trends using Pandas and Jupyter Notebook. I'll explore key metrics like t
 
 ## Source of Data
 Within Resources Folder in the PyCitySchools Folder:
-* Multiple_year_stock_data.xlsx
+* schools_complete.csv
+* students_complete.csv
+
+## Findings
+My evaluation of the school district's performance included the examination of standardised test results in math and reading, school budgets, and grade point averages. The information was organised by school size and type, with an emphasis on district and charter schools.
+
+* According to my findings, charter schools outperform district schools in both math and reading scores, as well as the percentage of students passing the exams. Furthermore, smaller schools performed better than bigger schools, with higher average scores and pass rates.
+* One result that I find weird in my data analysis is the spending ranges analysis. Schools spending less per student appear to have better overall passing rates, with schools spending less than $585 per student having an overall passing rate of 90.4% and schools spending between $645-680 per student having an overall passing rate of only 53.5%. This trend can also be seen in math and reading passing rates, with schools spending less per student typically having better passing rates in both subjects.
+
+## Conclusion
+Based on the data analysis, we can draw the following two conclusions:
+1.	Charter schools outperform district schools: When compared to district schools, charter schools scored better on both math and reading tests and had higher pass rates. This implies that the charter school model, with its increased independence and adaptability may result in improved student outcomes.
+2.	2. Smaller schools outperform larger schools. In my data analysis, I have found that smaller schools with fewer than 1,000 pupils had higher average test scores and pass rates than larger schools. This indicates that smaller schools may provide students with a more personalised and supportive learning environment, leading to improved academic achievement.
+Overall, my analysis offers valuable insights into the school district's performance and highlights areas where improvements can be made to better student outcomes.
+
+
+
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
